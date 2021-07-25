@@ -10,7 +10,7 @@
 ### WHAT I CURRENTLY DO 
 - Learn more about:
 - HTML, CSS, Javascript, React, APIS, Algorithms
-- I teach basic programming (for beginners in web dev)
+- I teach basic programming (Javascript)
 - Preparing suprise repositories 😁
 
 ### WHAT IM LOOKING FOR 
