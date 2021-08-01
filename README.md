@@ -9,7 +9,7 @@
 
 ### WHAT I CURRENTLY DO 
 - Learn more about:
-- HTML, CSS, Javascript, React, APIS, Algorithms
+- HTML, CSS, Javascript, TypeScript, React, APIS, Algorithms
 - I teach basic programming (Javascript for beginners)
 - Preparing suprise repositories 😁
 
