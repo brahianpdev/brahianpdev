@@ -9,14 +9,9 @@
 
 ### WHAT I CURRENTLY DO 
 - Learn more about:
-- HTML, CSS, Javascript, TypeScript, React, APIS, Algorithms
-- I teach basic programming (Javascript for beginners)
-- Preparing suprise repositories 😁
+- JS, TS, React JS, ReactNative, Node JS, Algorithms
+- I teach basic programming for my friends! 😁
 
-### WHAT IM LOOKING FOR 
-- A company willing to provide training 
-- I intend to improve a lot
-- Let's talk 🤙
 
 ### S O C I A L N E T W O R K 
 - Place where I talk about my other passions:
