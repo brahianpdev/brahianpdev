@@ -5,6 +5,6 @@
 
 Hi, I'm Brahi, a self-taught programmer interested in mobile development, cybersecurity and ethical hacking
 Currently studying: Javascript, React Native, NodeJS / Algorithms, Virtual Machines / Linux / Pentesting
-Sometimes I teach basic programming.
+ & Sometimes I teach basic programming.
 
 - Follow me on [Twitter](https://twitter.com/brahianpdev) 🙌
