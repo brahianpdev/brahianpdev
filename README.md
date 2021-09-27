@@ -1,8 +1,6 @@
-<!--
-**brahianpdev/brahianpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hi, I'm Brahi
+![gif3](https://user-images.githubusercontent.com/66213550/134964687-0d8cc25b-29d4-4c3e-9418-babbf9567bda.gif)
 
-Self-taught programmer, gamer, writer and athlete.
 
-Areas of interest:
-Frontend, Backend, Mobile, Ethical Hacking, Blockchain, dApps.
+Hi, I'm Brahi, Self-taught programmer 26' from UY. Frontend, Backend, Mobile, Ethical Hacking. Currently studying Javascript, React Native, Node, Express, MongoDB, Algorithms, and Python for Pentesting. Sometimes I teach basic concepts of programming.
+
+Programming a game in Javascript, using Node, Express & MongoDB. You can follow the full process [here](https://github.com/brahianpdev/cripto-game-hack).
