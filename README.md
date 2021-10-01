@@ -3,4 +3,3 @@
 
 Hi, I'm Brahi, Self-taught programmer 26' from UY. Frontend, Backend, Mobile, Ethical Hacking. Currently studying Javascript, React Native, Node, Express, MongoDB, Algorithms, and Python for Pentesting. Sometimes I teach basic concepts of programming.
 
-Programming a game in Javascript, using Node, Express & MongoDB. You can follow the full process [here](https://github.com/brahianpdev/cripto-game-hack).
