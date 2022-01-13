@@ -18,11 +18,10 @@
 </p>
 
 <h4>
- Mobile
+ Pentesting (Learning...)
 </h4> 
 <p>
-  <img src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 </p>
 
 <h4>Tools & Technologies</h4>
