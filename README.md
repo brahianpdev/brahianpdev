@@ -18,9 +18,10 @@
 </p>
 
 <h4>
- Pentesting (Learning...)
+ (Learning...)
 </h4> 
 <p>
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 </p>
 
