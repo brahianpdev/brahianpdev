@@ -1,7 +1,5 @@
 # Hello there, I'm Brahian Pereyra
 
-## I am careful with words, and curious
-
 - 🚀 Backend Developer at [RepuestosYA](https://www.repuestosya.com/)
 - 🖥️ Studying DevOps culture and Security (Pentesting)
 - 🔨 Currently working with Nest and MongoDB using Clean Code and Clean Architecture
