@@ -1,4 +1,4 @@
-# Hello there, I'm Brahian Pereyra 👋
+# Hello there, I'm Brahian Pereyra
 
 ## I am careful with words, and curious
 
