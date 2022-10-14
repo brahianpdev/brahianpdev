@@ -4,6 +4,7 @@
 - 🖥️ Studying DevOps culture and Security (Pentesting)
 - 🔨 Currently working with Nest and MongoDB using Clean Code and Clean Architecture
 - ⌛ In my free time, I currently write poetry, play the guitar, play sports, go out with my dog or hang out with friends
+- :zap: Portuguese C1 - English B2 - Spanish native.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23404d59.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=#7D9ADA) 
