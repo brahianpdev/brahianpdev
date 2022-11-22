@@ -1,6 +1,6 @@
 # Hello there, I'm Brahian Pereyra
 
-- 🚀 Software Developer at [Mercado Libre]([[https://www.repuestosya.com/](https://www.mercadolibre.com.uy)])
+- 🚀 Software Developer at [Mercado Libre](https://www.mercadolibre.com.uy)
 - 🖥️ Studying DevOps culture and Security (Pentesting)
 - ⌛ In my free time, I currently write poetry, play the guitar, play sports, go out with my dog or hang out with friends
 - :zap: Portuguese C1 - English B2 - Spanish native.
