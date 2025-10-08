@@ -30,7 +30,7 @@ Datadog · New Relic · Kibana · JUnit · Mockito
 
 ### 🌍 About Me
 
-- Open to **new opportunities in Europe** (remote or hybrid)  
+- Open to **new opportunities Full Remote**
 - Self-taught, curious, and driven by **clean architecture and reliable systems**  
 - Languages: Spanish (Native), Portuguese (B2), English (B1–B2)
 
