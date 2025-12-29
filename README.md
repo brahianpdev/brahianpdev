@@ -1,6 +1,6 @@
 # Hi, I'm Brahian Pereyra
 
-### Application Security Engineer | Cloud Security & Backend Specialist
+### Application Security Engineer & Software Backend Engineer
 
 I am an **Application Security Engineer** with a strong background in **Backend Development**. My focus is on building and securing high-scale distributed systems, bridging the gap between robust software architecture and proactive security practices.
 
