@@ -17,9 +17,6 @@ Actively involved in the security community, I specialize in **Threat Modeling**
     * **Backend:** Developed identity verification (KYC) flows for Mercado Pago using Java/Spring Boot and integrated ML models.
 * **Software Engineer** @ **Repuestos YA** *(Apr 2022 – Oct 2022)*
     * Developed and maintained automotive eCommerce services using Node.js and NestJS within modular architectures.
-* **Logistics Specialist** @ **Tienda Inglesa / Devoto** *(2014 – 2021)*
-    * Led operational teams and managed large-scale supply chain logistics before transitioning into the Tech industry.
-
 ---
 
 ### Featured Projects
@@ -36,9 +33,14 @@ An automated hosting platform for **Minecraft and TeamSpeak** servers.
 ---
 
 ### About Me
-Beyond the terminal, I value peace of mind and continuous personal growth. I am a lifelong self-learner at heart; currently, I spend much of my free time experimenting with my Homelab, where I explore networking, automation, and virtualization using Proxmox.
 
-I truly enjoy being outdoors, especially near the ocean. I am a big animal lover (dogs, monkeys, and giraffes are my favorites), and I appreciate the simple things: a good cup of coffee, an engaging book, and a quiet environment. I firmly believe that discipline and curiosity are the best tools for growth, both as an engineer and as a person.
+Hi, how’s it going? I’m Brahi, from Uruguay. I’ve always been curious, proactive, and energetic. Since I was a kid, I liked learning new things, and at 12 years old, with a Pentium 2 that the whole family used, and a CD with video tutorials about Visual Basic, I started programming.
+
+Years later, I joined a volunteer program to teach robotics to children with special needs at Escuela Especial María Nila Larrosa, in the city of Rocha.
+
+This was a turning point, where I discovered that I didn’t just enjoy learning, but that I had a huge passion for teaching, guiding, and leading, encouraging laughter, teamwork, and peer support.
+
+After that, the rest is history…
 
 **Languages:** Spanish (Native), Portuguese (Advanced), English (Conversational - constantly improving).
 
@@ -49,4 +51,3 @@ I truly enjoy being outdoors, especially near the ocean. I am a big animal lover
 [![Email](https://img.shields.io/badge/Email-brahianpdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahianpdev@gmail.com)
 
 ---
-*“Security is not a product, but a process.”*
