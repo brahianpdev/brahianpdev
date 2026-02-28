@@ -8,7 +8,6 @@ This was a turning point, where I discovered that I didn’t just enjoy learning
 
 After that, the rest is history…
 
-Languages: Spanish (Native), Portuguese (Advanced), English (Conversational - constantly improving)
 ---
 
 ### Professional Journey
