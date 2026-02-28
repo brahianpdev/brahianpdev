@@ -1,6 +1,4 @@
-# Hi, I'm Brahian Pereyra
-
-### Application Security Engineer & Software Engineer
+## Application Security Engineer & Software Engineer
 
 Hi, how’s it going? I’m Brahi, from Uruguay. I’ve always been curious, proactive, and energetic. Since I was a kid, I liked learning new things, and at 12 years old, with a Pentium 2 that the whole family used, and a CD with video tutorials about Visual Basic, I started programming.
 
