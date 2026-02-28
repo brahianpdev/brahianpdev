@@ -2,10 +2,15 @@
 
 ### Application Security Engineer & Software Engineer
 
-I am an **Application Security Engineer** with a strong background in **Backend Development**. My focus is on building and securing high-scale distributed systems, bridging the gap between robust software architecture and proactive security practices.
+Hi, how’s it going? I’m Brahi, from Uruguay. I’ve always been curious, proactive, and energetic. Since I was a kid, I liked learning new things, and at 12 years old, with a Pentium 2 that the whole family used, and a CD with video tutorials about Visual Basic, I started programming.
 
-Actively involved in the security community, I specialize in **Threat Modeling**, **Secure SDLC**, and **Cloud Security**, ensuring that products are resilient by design.
+Years later, I joined a volunteer program to teach robotics to children with special needs at Escuela Especial María Nila Larrosa, in the city of Rocha.
 
+This was a turning point, where I discovered that I didn’t just enjoy learning, but that I had a huge passion for teaching, guiding, and leading, encouraging laughter, teamwork, and peer support.
+
+After that, the rest is history…
+
+**Languages:** Spanish (Native), Portuguese (Advanced), English (Conversational - constantly improving).
 ---
 
 ### Professional Journey
@@ -32,17 +37,7 @@ An automated hosting platform for **Minecraft and TeamSpeak** servers.
 
 ---
 
-### About Me
 
-Hi, how’s it going? I’m Brahi, from Uruguay. I’ve always been curious, proactive, and energetic. Since I was a kid, I liked learning new things, and at 12 years old, with a Pentium 2 that the whole family used, and a CD with video tutorials about Visual Basic, I started programming.
-
-Years later, I joined a volunteer program to teach robotics to children with special needs at Escuela Especial María Nila Larrosa, in the city of Rocha.
-
-This was a turning point, where I discovered that I didn’t just enjoy learning, but that I had a huge passion for teaching, guiding, and leading, encouraging laughter, teamwork, and peer support.
-
-After that, the rest is history…
-
-**Languages:** Spanish (Native), Portuguese (Advanced), English (Conversational - constantly improving).
 
 ---
 
