@@ -25,13 +25,9 @@ After that, the rest is history…
 
 #### **[Tallercito](https://tallercito.vercel.app/)** — *Creator*
 An specialized ERP designed for automotive and electrical workshops. 
-* **Focus:** Business management, stock tracking, and real-time financial reporting (earnings, inventory, and job status).
-* **Impact:** Simplifies operations for small businesses through an intuitive interface and data-driven insights.
 
 #### **[MainHost](https://mainhost.dyallab.com.ar/)** — *Co-creator*
 An automated hosting platform for **Minecraft and TeamSpeak** servers.
-* **Focus:** Performance, high uptime, and an accessible UI for non-technical users to deploy and manage game servers.
-
 ---
 
 
