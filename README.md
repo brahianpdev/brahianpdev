@@ -19,18 +19,6 @@ After that, the rest is history…
     * **Backend:** Developed identity verification (KYC) flows for Mercado Pago using Java/Spring Boot and integrated ML models.
 * **Software Engineer** @ **Repuestos YA** *(Apr 2022 – Oct 2022)*
     * Developed and maintained automotive eCommerce services using Node.js and NestJS within modular architectures.
----
-
-### Featured Projects
-
-#### **[Tallercito](https://tallercito.vercel.app/)** — *Creator*
-An specialized ERP designed for automotive and electrical workshops. 
-
-#### **[MainHost](https://mainhost.dyallab.com.ar/)** — *Co-creator*
-An automated hosting platform for **Minecraft and TeamSpeak** servers.
----
-
-
 
 ---
 
