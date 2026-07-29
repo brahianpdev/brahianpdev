@@ -12,12 +12,12 @@ After that, the rest is history…
 
 ### Professional Journey
 
-* **Application Security Engineer** @ [itti](https://www.itti.digital/) *(Nov 2025 – Present)*
+* **Application Security Engineer** @ [itti](https://www.itti.digital/) 
     * Focusing on application security strategies, vulnerability management, and fostering a security-first culture.
-* **Security Guardian & Software Engineer** @ **Mercado Libre** *(Nov 2022 – Oct 2025)*
+* **Security Guardian & Software Engineer** @ **Mercado Libre** 
     * **Security Guardian:** Led threat modeling sessions, reviewed dependencies, and promoted secure coding practices.
     * **Backend:** Developed identity verification (KYC) flows for Mercado Pago using Java/Spring Boot and integrated ML models.
-* **Software Engineer** @ **Repuestos YA** *(Apr 2022 – Oct 2022)*
+* **Software Engineer** @ **Repuestos YA** 
     * Developed and maintained automotive eCommerce services using Node.js and NestJS within modular architectures.
 
 ---
