@@ -8,20 +8,6 @@ This was a turning point, where I discovered that I didn’t just enjoy learning
 
 After that, the rest is history…
 
----
-
-### Professional Journey
-
-* **Application Security Engineer** @ [itti](https://www.itti.digital/) 
-    * Focusing on application security strategies, vulnerability management, and fostering a security-first culture.
-* **Security Guardian & Software Engineer** @ **Mercado Libre** 
-    * **Security Guardian:** Led threat modeling sessions, reviewed dependencies, and promoted secure coding practices.
-    * **Backend:** Developed identity verification (KYC) flows for Mercado Pago using Java/Spring Boot and integrated ML models.
-* **Software Engineer** @ **Repuestos YA** 
-    * Developed and maintained automotive eCommerce services using Node.js and NestJS within modular architectures.
-
----
-
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahian%20Pereyra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahianpdev/)
 [![Email](https://img.shields.io/badge/Email-brahianpdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahianpdev@gmail.com)
