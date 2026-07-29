@@ -10,6 +10,6 @@ After that, the rest is history…
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahian%20Pereyra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahianpdev/)
-[![Email](https://img.shields.io/badge/Email-brahianpdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahianpdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contactov%40brahianpdev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@brahianpdev.com)
 
 ---
